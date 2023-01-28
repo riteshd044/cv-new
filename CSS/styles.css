@@ -76,9 +76,11 @@ hr{
 }
 .para{
     font-size: 1em;
-    padding-left: 350px; 
-    padding-right: 350px;
-    padding-bottom: 50px;
+}
+.contact-me{
+    margin: 10px auto 0 auto;
+    width: 40%;
+    height: 40%;
 }
 .skill-row{
     font-size: 1em;
@@ -88,8 +90,8 @@ hr{
     line-height: 1.5;
 }
 .help{
-    width: 15%;
-    height: 15%;
+    width: 20%;
+    height: 20%;
     border-radius: 100%;
 }
 a{
